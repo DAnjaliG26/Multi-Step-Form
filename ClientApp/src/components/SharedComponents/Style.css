@@ -1,0 +1,54 @@
+
+
+.Label{
+    margin-left: 2em;
+    text-align:center;
+    margin-top:2px;
+    margin-bottom:2px;
+}
+
+.LabelNum {
+    margin-left: 2em;
+    text-align: left;
+
+}
+
+.TextBox {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    white-space:nowrap;
+}
+
+.div {
+    text-align: left;
+    margin-left: 0em;
+}
+.labelText {
+  font-weight: normal;
+}
+
+.Textarea {
+  padding-left: 1em;
+}
+input[type=text] {
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+canvas {
+  /*prevent interaction with the canvas*/
+  pointer-events: none;
+}

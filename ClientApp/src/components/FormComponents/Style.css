@@ -1,0 +1,71 @@
+
+.DivHeader {
+    border: solid;
+    background-color: #ff4337;
+    color: white;
+    padding-left:0px;
+}
+
+.SecondColumn {
+  background-color: #1e242b;
+  color: #fff;
+}
+
+.Label {
+  background-color: #1e242b;
+  color: #fff;
+  margin-left: 1em;
+  text-align: left;
+}
+
+.LabelNum {
+    margin-left: 1em;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.Labelstyle {
+    margin-right: 1em;
+    text-align: left;
+    margin-left:5em;
+    margin-top:1.5em;
+    
+}
+.margin {
+  margin-left:1em;
+}
+.margincheckbox{
+  margin-left: 2em;
+}
+
+.listdiv {
+    text-align: left;
+}
+
+.btnstyle {
+  background-color: #1e242b;
+  color: #fff;
+  margin-left:0px;
+}
+
+.thanks {
+margin-top:10em;
+text-align:center;
+}
+
+.Imagestyle {
+  align-content: center;
+  margin-left: 400px;
+  margin-top: 100px;
+  margin-right:350px;
+}
+
+.Textarea {
+  padding-left: 1em;
+}
+
+.btn-default:hover, btn-default:focus {
+  background: #1e242b;
+}
+
